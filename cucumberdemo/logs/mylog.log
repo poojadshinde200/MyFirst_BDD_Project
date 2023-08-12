@@ -1,0 +1,145 @@
+[INFO ] 2023-03-21 17:03:05.955 [main] StepDef - lauch a browser
+[INFO ] 2023-03-21 17:03:09.706 [main] StepDef - lauch a website url
+[INFO ] 2023-03-21 17:03:10.430 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-21 17:03:34.701 [main] StepDef - click on login
+[INFO ] 2023-03-21 17:03:34.732 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-21 17:03:34.901 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-21 17:03:50.122 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-21 17:04:07.424 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-21 17:04:07.468 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-21 17:04:08.885 [main] StepDef - user enter info 
+[INFO ] 2023-03-21 17:04:11.446 [main] StepDef - click on Button
+[INFO ] 2023-03-21 17:04:11.994 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-21 17:04:12.522 [main] StepDef - close the browser
+[INFO ] 2023-03-21 17:04:12.526 [main] StepDef - screenshot has captured
+[INFO ] 2023-03-21 17:42:39.948 [main] StepDef - lauch a browser
+[INFO ] 2023-03-21 17:42:43.132 [main] StepDef - lauch a website url
+[INFO ] 2023-03-21 19:34:50.526 [main] StepDef - lauch a browser
+[INFO ] 2023-03-21 19:34:59.911 [main] StepDef - lauch a website url
+[INFO ] 2023-03-21 19:35:01.910 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-21 19:35:12.474 [main] StepDef - click on login
+[INFO ] 2023-03-26 19:53:45.861 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 19:53:51.777 [main] StepDef - lauch a website url
+[INFO ] 2023-03-26 19:53:53.294 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-26 19:54:04.466 [main] StepDef - click on login
+[INFO ] 2023-03-26 19:54:06.711 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-26 19:54:06.991 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-26 19:54:11.872 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-26 19:54:15.098 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-26 19:54:15.344 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-26 19:54:17.336 [main] StepDef - user enter info 
+[INFO ] 2023-03-26 19:54:20.145 [main] StepDef - click on Button
+[INFO ] 2023-03-26 19:54:22.576 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-26 19:54:24.135 [main] StepDef - close the browser
+[INFO ] 2023-03-26 20:49:23.345 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 20:52:01.678 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 20:52:01.731 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 20:52:01.797 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 20:56:23.755 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 21:25:31.235 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 21:33:57.532 [main] StepDef - lauch a browser
+[INFO ] 2023-03-26 21:37:07.525 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 12:34:46.820 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 13:45:30.501 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 13:48:13.207 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 13:51:02.268 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 13:51:06.984 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 13:51:10.612 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 13:51:19.705 [main] StepDef - click on login
+[INFO ] 2023-03-27 13:51:19.915 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 13:51:20.219 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 13:51:25.387 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 13:51:30.995 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 13:51:31.234 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 13:51:33.010 [main] StepDef - user enter info 
+[INFO ] 2023-03-27 13:51:38.010 [main] StepDef - click on Button
+[INFO ] 2023-03-27 13:51:39.284 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-27 13:51:41.955 [main] StepDef - close the browser
+[INFO ] 2023-03-27 13:57:51.868 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:02:56.658 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:03:00.265 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 14:03:01.239 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 14:03:13.438 [main] StepDef - click on login
+[INFO ] 2023-03-27 14:03:13.674 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 14:03:14.388 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 14:03:18.224 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 14:03:21.914 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 14:03:23.433 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 14:03:25.303 [main] StepDef - user enter info 
+[INFO ] 2023-03-27 14:03:29.498 [main] StepDef - click on Button
+[INFO ] 2023-03-27 14:03:30.411 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-27 14:03:31.496 [main] StepDef - close the browser
+[INFO ] 2023-03-27 14:12:43.105 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:12:47.151 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 14:12:49.277 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 14:12:58.230 [main] StepDef - click on login
+[INFO ] 2023-03-27 14:12:58.249 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 14:12:58.538 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 14:13:03.011 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 14:13:07.370 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 14:13:07.466 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 14:13:12.132 [main] StepDef - user enter info 
+[INFO ] 2023-03-27 14:13:15.474 [main] StepDef - click on Button
+[INFO ] 2023-03-27 14:13:16.283 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-27 14:13:19.988 [main] StepDef - close the browser
+[INFO ] 2023-03-27 14:23:01.939 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:23:08.496 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 14:23:10.762 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 14:23:19.815 [main] StepDef - click on login
+[INFO ] 2023-03-27 14:23:19.845 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 14:23:20.053 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 14:23:22.873 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 14:23:28.368 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 14:23:28.401 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 14:23:30.828 [main] StepDef - user enter info 
+[INFO ] 2023-03-27 14:23:34.048 [main] StepDef - click on Button
+[INFO ] 2023-03-27 14:23:35.081 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-27 14:23:37.178 [main] StepDef - close the browser
+[INFO ] 2023-03-27 14:26:34.734 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:26:40.539 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 14:26:41.289 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 14:26:50.563 [main] StepDef - click on login
+[INFO ] 2023-03-27 14:26:50.586 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 14:26:50.802 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 14:26:53.686 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 14:26:56.129 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 14:26:56.162 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 14:38:41.826 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:38:48.881 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 14:38:49.997 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 14:39:07.810 [main] StepDef - click on login
+[INFO ] 2023-03-27 14:39:07.843 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 14:39:08.049 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 14:39:15.475 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 14:39:19.556 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 14:39:19.647 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 14:39:21.318 [main] StepDef - user enter info 
+[INFO ] 2023-03-27 14:39:25.031 [main] StepDef - click on Button
+[INFO ] 2023-03-27 14:39:25.926 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-27 14:39:26.770 [main] StepDef - close the browser
+[INFO ] 2023-03-27 14:55:42.218 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:55:45.472 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 14:55:46.572 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 14:55:55.316 [main] StepDef - click on login
+[INFO ] 2023-03-27 14:55:55.342 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 14:55:55.591 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 14:56:00.427 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 14:56:06.979 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 14:56:07.019 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 14:56:09.389 [main] StepDef - user enter info 
+[INFO ] 2023-03-27 14:56:14.320 [main] StepDef - click on Button
+[INFO ] 2023-03-27 14:56:15.605 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-27 14:56:17.311 [main] StepDef - close the browser
+[INFO ] 2023-03-27 14:59:40.410 [main] StepDef - lauch a browser
+[INFO ] 2023-03-27 14:59:45.103 [main] StepDef - lauch a website url
+[INFO ] 2023-03-27 14:59:45.674 [main] StepDef - user has enter username and password
+[INFO ] 2023-03-27 14:59:55.419 [main] StepDef - click on login
+[INFO ] 2023-03-27 14:59:55.506 [main] StepDef - user verify dashboard page
+[INFO ] 2023-03-27 14:59:55.758 [main] StepDef - user has click On CustomersMenu
+[INFO ] 2023-03-27 14:59:59.909 [main] StepDef - user has click On CustomersMenuItem
+[INFO ] 2023-03-27 15:00:03.671 [main] StepDef - user has click Add new Button
+[INFO ] 2023-03-27 15:00:03.703 [main] StepDef - verify the page Add new customer
+[INFO ] 2023-03-27 15:00:06.776 [main] StepDef - user enter info 
+[INFO ] 2023-03-27 15:00:11.065 [main] StepDef - click on Button
+[INFO ] 2023-03-27 15:00:12.154 [main] StepDef - user verify confirmation msg
+[INFO ] 2023-03-27 15:00:13.667 [main] StepDef - close the browser
